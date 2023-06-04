@@ -58,9 +58,9 @@ get_header("", [
                                 <a href="/product.html" class="button">ПОДРОБНЕЕ О ТОВАРЕ</a>
                                 <div class="product__block product__block-buy">
                                     <div class="input input-number">
-                                        <span>-</span>
+                                        <span class="minus">-</span>
                                         <input type="text" value="1" placeholder="1">
-                                        <span>+</span>
+                                        <span class="plus">+</span>
                                     </div>
                                     <button class="button button-reverce">КУПИТЬ</button>
                                 </div>
@@ -88,9 +88,9 @@ get_header("", [
                                 <a href="/product.html" class="button">ПОДРОБНЕЕ О ТОВАРЕ</a>
                                 <div class="product__block product__block-buy">
                                     <div class="input input-number">
-                                        <span>-</span>
+                                        <span class="minus">-</span>
                                         <input type="text" value="1" placeholder="1">
-                                        <span>+</span>
+                                        <span class="plus">+</span>
                                     </div>
                                     <button class="button button-reverce">КУПИТЬ</button>
                                 </div>
@@ -118,9 +118,9 @@ get_header("", [
                                 <a href="/product.html" class="button">ПОДРОБНЕЕ О ТОВАРЕ</a>
                                 <div class="product__block product__block-buy">
                                     <div class="input input-number">
-                                        <span>-</span>
+                                        <span class="minus">-</span>
                                         <input type="text" value="1" placeholder="1">
-                                        <span>+</span>
+                                        <span class="plus">+</span>
                                     </div>
                                     <button class="button button-reverce">КУПИТЬ</button>
                                 </div>
@@ -136,34 +136,23 @@ get_header("", [
                     <h2 class="title title-h2">
                         MK5.45 - это:
                     </h2>
+                    <?php $mk_desc = get_field("mk_desc"); ?>
                     <div class="list">
                         <div class="list__column">
-                            <div class="list_item">
-                                <span class="number">1</span>
-                                Lorem ipsum dolor sit amet
-                            </div>
-                            <div class="list_item">
-                                <span class="number">3</span>
-                                Lorem ipsum dolor sit amet
-                            </div>
-                            <div class="list_item">
-                                <span class="number">5</span>
-                                Lorem ipsum dolor sit amet
-                            </div>
+                            <?php for ($i = 0; $i < count($mk_desc); $i += 2): ?>
+                                <div class="list_item">
+                                    <span class="number"><?php echo $i + 1; ?></span>
+                                    <?php echo $mk_desc[$i]['text']; ?>
+                                </div>
+                            <?php endfor; ?>
                         </div>
                         <div class="list__column">
-                            <div class="list_item">
-                                <span class="number">2</span>
-                                Lorem ipsum dolor sit amet
-                            </div>
-                            <div class="list_item">
-                                <span class="number">4</span>
-                                Lorem ipsum dolor sit amet
-                            </div>
-                            <div class="list_item">
-                                <span class="number">6</span>
-                                Lorem ipsum dolor sit amet
-                            </div>
+                            <?php for ($i = 1; $i < count($mk_desc); $i += 2): ?>
+                                <div class="list_item">
+                                    <span class="number"><?php echo $i + 1; ?></span>
+                                    <?php echo $mk_desc[$i]['text']; ?>
+                                </div>
+                            <?php endfor; ?>
                         </div>
                     </div>
                 </div>

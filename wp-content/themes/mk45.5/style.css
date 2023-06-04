@@ -354,6 +354,20 @@ Use it to make something cool, have fun, and share what you've learned with othe
     padding-left: 17px;
     min-height: 53px;
 }
+.input textarea {
+    border: none;
+    background: transparent;
+    outline: none;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+    height: 100%;
+    width: 100%;
+    letter-spacing: -0.015em;
+    min-height: 53px;
+    padding: 5px 17px;
+    resize: none;
+}
 @media (max-width: 1279.98px) {
     .input input {
         min-height: 40px;
@@ -706,6 +720,11 @@ Use it to make something cool, have fun, and share what you've learned with othe
     .catalog {
         grid-template-columns: repeat(2, 1fr);
     }
+    .nav .menu ul li {
+        padding: 5px;
+        min-height: fit-content;
+        border-radius: 15px;
+    }
 }
 @media (max-width: 767.98px) {
     .catalog {
@@ -1026,6 +1045,10 @@ Use it to make something cool, have fun, and share what you've learned with othe
         flex-direction: column;
         gap: 20px;
         overflow-y: scroll;
+    }
+    .header__content:last-child .nav .menu ul {
+        flex-direction: column;
+        gap: 20px;
     }
     .header__content:last-child .nav .contacts {
         display: flex;
