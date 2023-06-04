@@ -1,0 +1,300 @@
+2023-06-04T01:21:44+00:00 CRITICAL syntax error, unexpected token "=", expecting end of file в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\page.php на строке 6
+
+2023-06-04T01:31:01+00:00 CRITICAL syntax error, unexpected token "}", expecting "," or ";" в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\page.php на строке 32
+
+2023-06-04T03:27:09+00:00 CRITICAL Uncaught Error: Class "mk_45_5_Custom_Colors" not found in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:584
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 584
+
+2023-06-04T03:27:09+00:00 CRITICAL Uncaught Error: Class "mk_45_5_Custom_Colors" not found in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:584
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 584
+
+2023-06-04T03:28:04+00:00 CRITICAL Uncaught Error: Class "mk_45_5_Custom_Colors" not found in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:584
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-admin\admin-ajax.php(22): require_once('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 584
+
+2023-06-04T03:30:05+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-admin\admin-ajax.php(22): require_once('C:\\OSPanel\\doma...')
+#4 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:06+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:06+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:07+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:08+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:33+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:33+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:34+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:35+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:35+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:35+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:36+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:30:36+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:580
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 580
+
+2023-06-04T03:31:01+00:00 CRITICAL Uncaught Error: Class "mk_45_5_Customize" not found in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:596
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 596
+
+2023-06-04T03:31:01+00:00 CRITICAL Uncaught Error: Class "mk_45_5_Customize" not found in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:596
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 596
+
+2023-06-04T03:31:06+00:00 CRITICAL Uncaught Error: Class "mk_45_5_Dark_Mode" not found in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:605
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 605
+
+2023-06-04T03:31:07+00:00 CRITICAL Uncaught Error: Class "mk_45_5_Dark_Mode" not found in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:605
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 605
+
+2023-06-04T03:31:10+00:00 CRITICAL Uncaught Error: Class "mk_45_5_Custom_Colors" not found in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:179
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-includes\class-wp-hook.php(308): mk_45_5_setup()
+#1 C:\OSPanel\domains\wp\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 C:\OSPanel\domains\wp\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 C:\OSPanel\domains\wp\wp-settings.php(601): do_action()
+#4 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#7 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#8 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 179
+
+2023-06-04T03:31:10+00:00 CRITICAL Uncaught Error: Class "mk_45_5_Custom_Colors" not found in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:179
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-includes\class-wp-hook.php(308): mk_45_5_setup()
+#1 C:\OSPanel\domains\wp\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 C:\OSPanel\domains\wp\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 C:\OSPanel\domains\wp\wp-settings.php(601): do_action()
+#4 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#7 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#8 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 179
+
+2023-06-04T03:31:41+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:577
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 577
+
+2023-06-04T03:31:42+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:577
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 577
+
+2023-06-04T03:31:44+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:577
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 577
+
+2023-06-04T03:31:44+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\OSPanel\domains\wp/wp-content/themes/mk45.5/classes/class-mk-45-5-svg-icons.php' (include_path='.') in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php:577
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-settings.php(591): include()
+#1 C:\OSPanel\domains\wp\wp-config.php(95): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\wp-load.php(50): require_once('C:\\OSPanel\\doma...')
+#3 C:\OSPanel\domains\wp\wp-blog-header.php(13): require_once('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#5 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\functions.php на строке 577
+
+2023-06-04T04:46:02+00:00 CRITICAL Uncaught Error: Call to undefined function twenty_twenty_one_the_posts_navigation() in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\archive.php:30
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-includes\template-loader.php(106): include()
+#1 C:\OSPanel\domains\wp\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\archive.php на строке 30
+
+2023-06-04T04:46:34+00:00 CRITICAL Uncaught Error: Call to undefined function twenty_twenty_one_the_posts_navigation() in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\archive.php:30
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-includes\template-loader.php(106): include()
+#1 C:\OSPanel\domains\wp\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\archive.php на строке 30
+
+2023-06-04T04:46:53+00:00 CRITICAL Uncaught Error: Call to undefined function twenty_twenty_one_the_posts_navigation() in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\archive.php:30
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-includes\template-loader.php(106): include()
+#1 C:\OSPanel\domains\wp\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\archive.php на строке 30
+
+2023-06-04T04:46:53+00:00 CRITICAL Uncaught Error: Call to undefined function twenty_twenty_one_the_posts_navigation() in C:\OSPanel\domains\wp\wp-content\themes\mk45.5\archive.php:30
+Stack trace:
+#0 C:\OSPanel\domains\wp\wp-includes\template-loader.php(106): include()
+#1 C:\OSPanel\domains\wp\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\wp\index.php(17): require('C:\\OSPanel\\doma...')
+#3 {main}
+  thrown в C:\OSPanel\domains\wp\wp-content\themes\mk45.5\archive.php на строке 30
+
